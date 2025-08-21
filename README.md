@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Flutter, Data science , Devops and ML**
 
-- 👨‍💻 you can check my portfolio from : [https://portfolio-vert-delta-75.vercel.app/index.html#home](https://portfolio-vert-delta-75.vercel.app/index.html#home)
+- 👨‍💻 you can check my portfolio from : [here](https://aminekichah.site)
 
 - 📫 How to reach me **kichahff@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1uPXjvJs8YCKZ4lMhHOPhhElVt2wW9C-9OH9mKT2QJT4/edit?usp=sharing](https://docs.google.com/document/d/1uPXjvJs8YCKZ4lMhHOPhhElVt2wW9C-9OH9mKT2QJT4/edit?usp=sharing)
+- 📄 Know about my experiences [amine kichah's resume](https://docs.google.com/document/d/1uPXjvJs8YCKZ4lMhHOPhhElVt2wW9C-9OH9mKT2QJT4/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
